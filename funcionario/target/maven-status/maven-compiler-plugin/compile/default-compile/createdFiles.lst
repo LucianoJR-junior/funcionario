@@ -1,0 +1,4 @@
+com\rh\funcionario\model\Funcionario.class
+com\rh\funcionario\service\FuncionarioService.class
+com\rh\funcionario\repository\FuncionarioRepository.class
+com\rh\funcionario\controller\FuncionarioController.class
